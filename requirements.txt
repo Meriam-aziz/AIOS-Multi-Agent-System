@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+folium
+gtts
+reportlab
+duckduckgo-search
